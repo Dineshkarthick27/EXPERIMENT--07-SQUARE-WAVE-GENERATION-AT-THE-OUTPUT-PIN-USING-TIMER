@@ -219,10 +219,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 
-## Output screen shots of proteus  :
+
  
  
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+ 
  
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
@@ -262,7 +262,14 @@ TOTAL TIME = 1.2ms
 
 FREQUENCY = 1/(1.2ms) = 833.33Hz
 
+## OUTPUT SCREENSHOTS OF PROTEUS:
+![Proteus Screenshot](https://github.com/amal-2006/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/148410730/0b9be261-6732-4764-b89d-fd0ff58f92b0)
 
+
+## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE):
+![Circuit Diagram](https://github.com/amal-2006/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/148410730/46151de5-9188-4aab-baec-07e5d61b2c2e)
+
+ 
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
 
