@@ -227,14 +227,15 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 ### FOR DUTY RATIO 50%
+![50%](https://github.com/amal-2006/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/148410730/5bccadbe-a182-4d07-a7e3-63e54c0bfd47)
 
-TON = 
+TON = 0.6ms
 
-TOFF=
+TOFF= 0.6ms
 
-TOTAL TIME = 
+TOTAL TIME = 1.2ms
 
-FREQUENCY = 1/(TOTAL TIME)
+FREQUENCY = 1/(1.2ms) = 833.33Hz
 
 ### FOR DUTY RATIO 70%
 
