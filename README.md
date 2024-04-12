@@ -1,3 +1,5 @@
+Name: AMALJOSH MAADHAV J
+Register Number: 212223230012
 # EXPERIMENT 07 SQUARE WAVE GENERATION AT THE OUTPUT PIN USING TIMER
 
 ### Aim:
@@ -271,7 +273,7 @@ FREQUENCY = 1/(1.2ms) = 833.33Hz
 
  
 ## Result :
-A PWM Signal is generated using the following frequency and various duty cycles are simulated 
+A PWM Signal is generated using the following frequency and various duty cycles are simulated.
 
 
 
