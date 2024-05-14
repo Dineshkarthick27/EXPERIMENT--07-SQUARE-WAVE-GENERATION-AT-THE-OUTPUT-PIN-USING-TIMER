@@ -1,8 +1,7 @@
+# EXPERIMENT--06-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
 <h3>Name: DINESH KARTHICK K J</h3>
 <h3>Register Number:212222100011</h3>
-# EXPERIMENT--06-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
-
-### Aim:
+<H3>AIM: </H3>
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
 
 ### Components required:
